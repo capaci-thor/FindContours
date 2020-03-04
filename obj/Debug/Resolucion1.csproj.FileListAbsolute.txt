@@ -1,0 +1,45 @@
+C:\Users\alumnos\Desktop\opcv\Resolucion1\bin\Debug\Resolucion1.exe.config
+C:\Users\alumnos\Desktop\opcv\Resolucion1\bin\Debug\Resolucion1.exe
+C:\Users\alumnos\Desktop\opcv\Resolucion1\bin\Debug\Resolucion1.pdb
+C:\Users\alumnos\Desktop\opcv\Resolucion1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\alumnos\Desktop\opcv\Resolucion1\bin\Debug\Emgu.CV.World.dll
+C:\Users\alumnos\Desktop\opcv\Resolucion1\bin\Debug\ZedGraph.dll
+C:\Users\alumnos\Desktop\opcv\Resolucion1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\alumnos\Desktop\opcv\Resolucion1\bin\Debug\Emgu.CV.World.xml
+C:\Users\alumnos\Desktop\opcv\Resolucion1\obj\Debug\Resolucion1.csprojAssemblyReference.cache
+C:\Users\alumnos\Desktop\opcv\Resolucion1\obj\Debug\Resolucion1.Form1.resources
+C:\Users\alumnos\Desktop\opcv\Resolucion1\obj\Debug\Resolucion1.Properties.Resources.resources
+C:\Users\alumnos\Desktop\opcv\Resolucion1\obj\Debug\Resolucion1.csproj.GenerateResource.cache
+C:\Users\alumnos\Desktop\opcv\Resolucion1\obj\Debug\Resolucion1.csproj.CopyComplete
+C:\Users\alumnos\Desktop\opcv\Resolucion1\obj\Debug\Resolucion1.exe
+C:\Users\alumnos\Desktop\opcv\Resolucion1\obj\Debug\Resolucion1.pdb
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\bin\Debug\Resolucion1.exe.config
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\bin\Debug\Resolucion1.exe
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\bin\Debug\Resolucion1.pdb
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\bin\Debug\Emgu.CV.UI.dll
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\bin\Debug\Emgu.CV.World.dll
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\bin\Debug\ZedGraph.dll
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\bin\Debug\Emgu.CV.UI.xml
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\bin\Debug\Emgu.CV.World.xml
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\obj\Debug\Resolucion1.csprojAssemblyReference.cache
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\obj\Debug\Resolucion1.Form1.resources
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\obj\Debug\Resolucion1.Properties.Resources.resources
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\obj\Debug\Resolucion1.csproj.GenerateResource.cache
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\obj\Debug\Resolucion1.csproj.CopyComplete
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\obj\Debug\Resolucion1.exe
+C:\Users\alumnos\Desktop\opcv\Operador_sobel\obj\Debug\Resolucion1.pdb
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\bin\Debug\Resolucion1.exe.config
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\bin\Debug\Resolucion1.exe
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\bin\Debug\Resolucion1.pdb
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\bin\Debug\Emgu.CV.UI.dll
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\bin\Debug\Emgu.CV.World.dll
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\bin\Debug\ZedGraph.dll
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\bin\Debug\Emgu.CV.UI.xml
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\bin\Debug\Emgu.CV.World.xml
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\obj\Debug\Resolucion1.csprojAssemblyReference.cache
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\obj\Debug\Resolucion1.Form1.resources
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\obj\Debug\Resolucion1.Properties.Resources.resources
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\obj\Debug\Resolucion1.csproj.GenerateResource.cache
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\obj\Debug\Resolucion1.csproj.CopyComplete
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\obj\Debug\Resolucion1.exe
+C:\Users\alumnos\Desktop\opcv\Operador_sobel - copia\obj\Debug\Resolucion1.pdb
